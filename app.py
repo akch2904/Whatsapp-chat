@@ -36,7 +36,7 @@ title = st.title('Analysis will be shown here⬇️')
 st.text('\n')
 st.text('\n')
 st.sidebar.title('WhatsApp Chat Analyzer')
-st.sidebar.text('Developed by Farneet Singh')
+st.sidebar.text('Developed by Abhishek Jha')
 st.sidebar.text('\n')
 st.sidebar.text('\n')
 
@@ -396,14 +396,6 @@ if uploaded_file is not None:
         </style>
         """, unsafe_allow_html=True)
 
-        st.header('Spam Analyzer')
-        st.markdown('<p class="big-font">Wanna know SMS or Email you received is Spam or not? Check out my <a href="https://farneet24-sms-spam-app-r53bi4.streamlit.app/">SMS Spam Analyzer</a></p>', unsafe_allow_html=True)
-        # st.markdown('''Wanna know SMS or Email you received is Spam or not? Check out my <a href="https://sms-spam-6zao.onrender.com/">SMS Spam Analyzer</a>''', unsafe_allow_html=True)
-
-        st.write('\n')
-        st.write('\n')
-        st.header('📝 Have questions?')
-        st.markdown("""Tell us what you want to know!! <a href="https://farneet24-contact-contact-y0vege.streamlit.app/">Contact Us</a>""", unsafe_allow_html=True)
 
 if para:
     with st.expander("How to upload the chat?"):
