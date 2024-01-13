@@ -35,7 +35,7 @@ WhatsApp Chat Analyzer is a robust tool engineered to offer granular analytics f
 
 ## Live Demo
 
-Experience the live demo of WhatsApp Chat Analyzer by clicking [here](https://farneet24-chatanalyzer-app-pi7gil.streamlit.app/).
+Experience the live demo of WhatsApp Chat Analyzer by clicking [here](https://whatsapp-chat-8htfwbev7wsu6y9bwgpuo7.streamlit.app/).
 
 ## Usage Guidelines
 
