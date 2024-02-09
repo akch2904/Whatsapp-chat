@@ -39,7 +39,7 @@ There are two methods to access and use the WhatsApp Chat Analyzer:
 
 ### Method 1: Live Website
 
-1. Visit the live deployment of the WhatsApp Chat Analyzer at <a href="https://whatsapp-chat-8htfwbev7wsu6y9bwgpuo7.streamlit.app/" target="_blank">https://whatsapp-chat-8htfwbev7wsu6y9bwgpuo7.streamlit.app/</a>.
+1. Visit the live deployment of the WhatsApp Chat Analyzer at <a href="https://whatsapp-chat-8htfwbev7wsu6y9bwgpuo7.streamlit.app//" target="_blank">https://whatsapp-chat-8htfwbev7wsu6y9bwgpuo7.streamlit.app/</a>.
 2. Experience the features and functionalities of the application directly in your web browser.
 
 ### Method 2: Local Setup
@@ -62,7 +62,7 @@ streamlit run app.py
 
 To use the WhatsApp Chat Analyzer, follow these steps:
 
-1. Navigate to the <a href="https://whatsapp-chat-8htfwbev7wsu6y9bwgpuo7.streamlit.app/" target="_blank">Live Demo</a> if you are using the live website.
+1. Navigate to the <a href="https://whatsapp-chat-8htfwbev7wsu6y9bwgpuo7.streamlit.app//" target="_blank">Live Demo</a> if you are using the live website.
 2. Upload the exported WhatsApp chat data file. Ensure the chat data is in the correct format as specified by the application.
 3. Utilize the interactive filters and charts to conduct your analysis. Explore various metrics and insights presented by the application.
 
