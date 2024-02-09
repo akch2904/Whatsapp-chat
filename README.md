@@ -58,5 +58,11 @@ streamlit run app.py
 ```
 7. A new browser window will automatically open with the application running locally.
 
+## Usage Guidelines
 
+To use the WhatsApp Chat Analyzer, follow these steps:
+
+1. Navigate to the [Live Demo](https://whatsapp-chat-8htfwbev7wsu6y9bwgpuo7.streamlit.app/) if you are using the live website.
+2. Upload the exported WhatsApp chat data file. Ensure the chat data is in the correct format as specified by the application.
+3. Utilize the interactive filters and charts to conduct your analysis. Explore various metrics and insights presented by the application.
 
