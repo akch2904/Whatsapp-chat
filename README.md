@@ -33,14 +33,26 @@ WhatsApp Chat Analyzer is a robust tool engineered to offer granular analytics f
 - **Altair**: Another plotting library used for more specialized visualizations.
 - **Streamlit**: A Python library used for web app creation and deployment, offering an interactive UI/UX.
 
-## Live Demo
+## Installation and Usage
 
-Experience the live demo of WhatsApp Chat Analyzer by clicking [here](https://whatsapp-chat-8htfwbev7wsu6y9bwgpuo7.streamlit.app/).
+There are two methods to access and use the WhatsApp Chat Analyzer:
 
-## Usage Guidelines
+### Method 1: Live Website
 
-1. Navigate to the [Live Demo](https://farneet24-chatanalyzer-app-pi7gil.streamlit.app/).
-2. Upload the exported WhatsApp chat data file.
-3. Utilize the interactive filters and charts to conduct your analysis.
+1. Visit the live deployment of the WhatsApp Chat Analyzer at [https://whatsapp-chat-8htfwbev7wsu6y9bwgpuo7.streamlit.app/](https://whatsapp-chat-8htfwbev7wsu6y9bwgpuo7.streamlit.app/).
+2. Experience the features and functionalities of the application directly in your web browser.
+
+### Method 2: Local Setup
+
+1. Download the source code zip file.
+2. Unzip the folder to your desired location.
+3. Open the folder in your preferred IDE or code editor.
+4. Open a terminal or command prompt in the project directory.
+5. Install the required dependencies by running:
+   ```
+pip install -r requirements.txt
+   ```
+6. Start the application locally with Streamlit by running:
+
 
 
