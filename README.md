@@ -49,10 +49,10 @@ There are two methods to access and use the WhatsApp Chat Analyzer:
 3. Open the folder in your preferred IDE or code editor.
 4. Open a terminal or command prompt in the project directory.
 5. Install the required dependencies by running:
-   ```
+```
 pip install -r requirements.txt
-   ```
-6. Start the application locally with Streamlit by running:
+```
+7. Start the application locally with Streamlit by running:
 
 
 
