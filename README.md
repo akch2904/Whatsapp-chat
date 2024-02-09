@@ -52,7 +52,11 @@ There are two methods to access and use the WhatsApp Chat Analyzer:
 ```
 pip install -r requirements.txt
 ```
-7. Start the application locally with Streamlit by running:
+6. Start the application locally with Streamlit by running:
+```
+streamlit run app.py
+```
+7. A new browser window will automatically open with the application running locally.
 
 
 
